@@ -1,0 +1,6 @@
+id,name,lat,lon,price,available,city,brand,model,phone
+1,Technician A,28.7041,77.1025,300,1,Delhi,Samsung,TV,9999912345
+2,Technician B,28.5355,77.3910,250,1,Delhi,Samsung,TV,9999923456
+3,Technician C,28.4595,77.0266,400,0,Delhi,Samsung,TV,9999934567
+4,Technician D,28.4089,77.3178,350,1,Delhi,LG,AC,9999945678
+5,Technician E,28.6692,77.4538,280,1,Delhi,Samsung,TV,9999956789
